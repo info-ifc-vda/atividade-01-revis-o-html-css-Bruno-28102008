@@ -1,0 +1,50 @@
+.site-header {
+  background-color: rgb(69, 173, 45);
+  padding: 10px;
+}
+
+@font-face {
+    font-family: 'Bauhaus';
+    src: url('caminho/para/Bauhaus93.woff2') format('woff2');
+}
+body {
+    font-family: 'Bauhaus', sans-serif;
+
+  
+}
+.fonte-titulo {
+  text: 12px Bauhaus93 sans-serif;
+  color: rgb(255, 255, 255);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+.container {
+  text-align: center;
+  width: 80%;
+  margin: 70 auto;
+}
+
+.site-main {
+  padding: 40px;
+}
+
+.content {
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.site-footer {
+  background-color: rgb(200, 200, 200);
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.img {
+  border-radius: 15px;
+}
